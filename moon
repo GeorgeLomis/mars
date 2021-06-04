@@ -857,5 +857,5 @@ http://iptvtree.net:8080/vpngenerators/635ee5a5e7/146369?checkedby:iptvcat.com
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146369?checkedby:iptvcat.com
 #EXTINF:0, nickelodeon HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146375?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/Ldt07Lh.png" group-title="Undefined",ΚρήτηTV
+#EXTINF:0 tvg-country="GR" tvg-logo="https://i.imgur.com/Ldt07Lh.png" group-title="Undefined",Κρήτη_TV
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8?checkedby:iptvcat.com
