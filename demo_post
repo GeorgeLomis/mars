@@ -3,5 +3,5 @@ TITLE::*Hello World!*::
 DESCRIPTION::*This is a test by a programer to test his software, Thank you!*::
 MIDDLE_TEXT::*45% off*::
 BUTTONCONTENT::*Click here to open ...*::
-LINKCONTENT::\\*https://www.google.com/*::
-BACKIMAGECONTENT::\\*https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/10-aventador-ultimae-coupe-1625665679.jpg*::
+LINKCONTENT::*https://www.google.com/*::
+BACKIMAGECONTENT::*https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/10-aventador-ultimae-coupe-1625665679.jpg*::
